@@ -1,0 +1,1 @@
+console.log("Disfruta de los pequeños y grandes momentos. La vida es bella.");
